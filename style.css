@@ -1,0 +1,8 @@
+body {
+    font-family: monospace;
+    background-color: darkgoldenrod;
+}tr.judul_table {
+    font-weight: bold;
+    text-align: center;
+    background-color: aqua;
+}
