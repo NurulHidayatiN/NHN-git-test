@@ -1,16 +1,14 @@
 body {
-<<<<<<< HEAD
     font-family: Arial;
     background-color: blueviolet;
 }
 table {
-    background-color: cornsilk;
-=======
+
     font-family: monospace;
     background-color: darkgoldenrod;
-}tr.judul_table {
+}
+tr.judul_table {
     font-weight: bold;
     text-align: center;
     background-color: aqua;
->>>>>>> cobaah
 }
